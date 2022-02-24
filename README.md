@@ -1,3 +1,3 @@
-# Saving my improvements
-DATS6101 - AFARI class
-Always improving
+# Python Improvements 
+## Data Mining
+Using Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Scipy 
